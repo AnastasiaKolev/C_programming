@@ -1,0 +1,64 @@
+Grading at Fri Sep  7 15:29:23 UTC 2018
+**Testing broken implementation 10 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+broken
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+broken
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED

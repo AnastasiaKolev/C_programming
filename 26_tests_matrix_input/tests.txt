@@ -1,0 +1,8 @@
+inp1.txt
+inp2.txt
+inp3.txt
+inp4.txt
+inp5.txt
+
+2 inp1.txt
+inp0.txt
